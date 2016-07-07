@@ -20,4 +20,4 @@
 
 `mix test`
 
-The api project will pass, the web project will fail with "database "web\_test" does not exist".
+The api application will pass, the web application will fail with "database "web\_test" does not exist".
