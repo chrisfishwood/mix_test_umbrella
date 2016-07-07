@@ -1,10 +1,10 @@
 # MixTestUmbrella
 
 ##How the project was created
-###Create umbrella app
+###Created umbrella app
 `mix new mix_test_umbrella --umbrella`
 
-###Create 2 phoenix apps under the umbrella
+###Created 2 phoenix apps under the umbrella
 `cd mix_test_umbrella/apps`
 
 `mix phoenix.new api --no-html --no-brunch`
